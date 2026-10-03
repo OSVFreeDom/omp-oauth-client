@@ -1,5 +1,5 @@
 {
-  "client_id": "https://osvfreedom.github.io/omp-oauth-client/client-metadata.json",
+  "client_id": "https://philiplasserre.fr/omp-oauth-client/client-metadata.json",
   "client_name": "oh-my-pi (omp)",
   "client_uri": "https://github.com/OSVFreeDom/omp-oauth-client",
   "redirect_uris": [
